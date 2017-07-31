@@ -370,9 +370,9 @@
           },
           "_anchor": "msg-box5-c",
           "_params": {
-            "imageSize": "38",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "imageSize": "39",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -385,7 +385,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
+            "inverse": false,
             "showTitle": true,
             "showText": true,
             "showButtons": false
@@ -394,7 +394,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x937.jpg",
+              "src": "@PROJECT_PATH@/assets/images/o6rvc40-1400x962.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -413,7 +413,7 @@
             }
           },
           "title": "Dr. Ricardo Fernando Soto",
-          "text": "ioioi ioi oio io ioi oi o ioioioioioioioioi ioi oi oi o iioio ioi oio io ioi&nbsp;",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent id arcu non nisl tempus volutpat. Maecenas sed varius orci. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Pellentesque condimentum ipsum magna, sed viverra nunc ullamcorper tempus. Proin feugiat turpis mauris, rutrum scelerisque libero sodales et. Phasellus sollicitudin eleifend odio eget porttitor. Integer dolor lectus, eleifend ut mi nec, bibendum cursus odio. Suspendisse ut accumsan massa. Nullam faucibus massa et metus ultricies, ac eleifend nibh dignissim. Donec et neque ac nibh pharetra fermentum. Nam in orci id eros egestas vulputate et vitae lectus. In feugiat velit nec dui consectetur viverra. Fusce in risus in metus rhoncus sagittis id vitae nibh.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -426,6 +426,17 @@
               "color": "#cccccc"
             },
             "STRONG": {
+              "color": "#cccccc"
+            },
+            "B": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "16px"
+            },
+            "P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "16px",
               "color": "#cccccc"
             }
           },
@@ -458,9 +469,9 @@
               "size": 0
             }
           },
-          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Dónde estamos?</b></span></font><br><br>afop wejofwof ofo fw&nbsp;<br>fwofwo foiwh&nbsp;",
-          "text2": "<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\">Dónde estamos?</span></font><br><br>afop wejofwof ofo fw&nbsp;<br>fwofwo foiwh&nbsp;",
+          "text2": "Contáctenos<br><br>\nEmail: support@dffw.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": ""
         }
       ]
     }

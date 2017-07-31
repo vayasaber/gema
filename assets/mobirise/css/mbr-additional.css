@@ -4,6 +4,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -496,5 +498,14 @@ h6,
   color: #cccccc;
 }
 #contacts1-8 STRONG {
+  color: #cccccc;
+}
+#contacts1-8 B {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+}
+#contacts1-8 P {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
   color: #cccccc;
 }
