@@ -1,6 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+
 
 
 
@@ -491,8 +493,16 @@ h6,
 #features3-3 P {
   text-align: center;
 }
-#msg-box5-c H3 {
+#content7-e PRE {
   font-size: 17px;
+  font-family: 'Roboto', sans-serif;
+  color: #553982;
+}
+#content7-e H4 {
+  color: #553982;
+}
+#content7-e P {
+  color: #ffffff;
 }
 #contacts1-8 SPAN {
   color: #cccccc;
